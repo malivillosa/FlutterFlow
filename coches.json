@@ -13,10 +13,10 @@
         "imagen": "https://fotos.perfil.com/2020/02/21/toyota-corolla-2020-llegaron-las-nuevas-versiones-918345.jpg"
       },
       {
-        "nombre": "",
-        "modelo": "",
-        "estado": "",
-        "precio": ,
+        "nombre": "Ford Fiesta",
+        "modelo": "2018",
+        "estado": "Seminuevo",
+        "precio": 12000,
         "transmision": "Manual",
         "combustible": "Diésel",
         "km": 30000,
