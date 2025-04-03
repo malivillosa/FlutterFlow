@@ -1,8 +1,8 @@
 {
     "coches": [
       {
-        "nombre": "Toyota Corolla",
-        "modelo": "2020",
+        "nombre": "Toyota ",
+        "modelo": "Corolla",
         "estado": "Nuevo",
         "precio": 20000,
         "transmision": "Automático",
@@ -13,8 +13,8 @@
         "imagen": "https://fotos.perfil.com/2020/02/21/toyota-corolla-2020-llegaron-las-nuevas-versiones-918345.jpg"
       },
       {
-        "nombre": "Ford Fiesta",
-        "modelo": "2018",
+        "nombre": "Ford",
+        "modelo": "Fiesta",
         "estado": "Seminuevo",
         "precio": 12000,
         "transmision": "Manual",
