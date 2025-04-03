@@ -1,0 +1,29 @@
+{
+    "coches": [
+      {
+        "nombre": "Toyota Corolla",
+        "modelo": "2020",
+        "estado": "Nuevo",
+        "precio": 20000,
+        "transmision": "Automático",
+        "combustible": "Gasolina",
+        "km": 5000,
+        "vendedor": "AutoShop Madrid",
+        "color": "Blanco",
+        "imagen": "https://fotos.perfil.com/2020/02/21/toyota-corolla-2020-llegaron-las-nuevas-versiones-918345.jpg"
+      },
+      {
+        "nombre": "Ford Fiesta",
+        "modelo": "2018",
+        "estado": "Seminuevo",
+        "precio": 12000,
+        "transmision": "Manual",
+        "combustible": "Diésel",
+        "km": 30000,
+        "vendedor": "VendeAuto",
+        "color": "Azul",
+        "imagen": "https://noticias.coches.com/wp-content/uploads/2017/02/Ford-Fiesta-ST-2018-11-859x483.jpg"
+      }
+    ]
+  }
+  
